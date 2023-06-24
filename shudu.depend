@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1687636392 source:f:\c or c++程序\shudu\finalmaker.cpp
+	"stdafx.h"
+	"FinalMaker.h"
+	"InputHandler.h"
+
+1687636392 f:\c or c++程序\shudu\stdafx.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1687636392 f:\c or c++程序\shudu\finalmaker.h
+	"stdafx.h"
+
+1687636392 f:\c or c++程序\shudu\inputhandler.h
+	"stdafx.h"
+
+1687636392 source:f:\c or c++程序\shudu\inputhandler.cpp
+	"stdafx.h"
+	"InputHandler.h"
+	"FinalMaker.h"
+	"SudokuSolver.h"
+
+1687636392 f:\c or c++程序\shudu\sudokusolver.h
+	"stdafx.h"
+
+1687636392 source:f:\c or c++程序\shudu\main.cpp
+	"stdafx.h"
+	"InputHandler.h"
+
+1687636392 source:f:\c or c++程序\shudu\sudokusolver.cpp
+	"stdafx.h"
+	"SudokuSolver.h"
+
